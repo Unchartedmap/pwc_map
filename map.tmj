@@ -26,6 +26,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":6,
+         "locked":true,
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
@@ -58,6 +59,7 @@
             3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 3, 0],
          "height":21,
          "id":7,
+         "locked":true,
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
@@ -133,6 +135,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"floor",
          "opacity":1,
          "type":"group",
@@ -207,6 +210,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"walls",
          "opacity":1,
          "type":"group",
@@ -313,6 +317,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"furniture",
          "opacity":1,
          "type":"group",
@@ -323,6 +328,7 @@
         {
          "draworder":"topdown",
          "id":2,
+         "locked":true,
          "name":"floorLayer",
          "objects":[
                 {
@@ -496,6 +502,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"above",
          "opacity":1,
          "type":"group",
