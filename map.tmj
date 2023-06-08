@@ -64,7 +64,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/centre"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -178,7 +178,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
