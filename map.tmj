@@ -29,7 +29,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -67,7 +67,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/centre"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -319,6 +319,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4750, 0, 0, 4782, 0, 0, 0, 0, 0, 2513, 0],
                  "height":21,
                  "id":65,
+                 "locked":true,
                  "name":"furniture 2",
                  "opacity":1,
                  "type":"tilelayer",
@@ -360,6 +361,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"furniture",
          "opacity":1,
          "type":"group",
@@ -533,7 +535,7 @@
          "name":"above",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
