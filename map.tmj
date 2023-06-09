@@ -64,7 +64,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/centre#entry-from-offices"
+                 "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/centre\/map.tmj#entry-from-offices"
                 }],
          "type":"tilelayer",
          "visible":false,
